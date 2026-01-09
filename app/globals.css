@@ -40,7 +40,7 @@ button, a {
 }
 
 .bottom-comp-gradient {
-  background: linear-gradient(0deg, #b5bcc4ff, #b5bcc4ff, #b5bcc4ff,rgb(0, 0, 0, 0));
+  background: linear-gradient(0deg, #b5bdc8ff, #b5bdc8ff, #b5bdc8ff,rgb(0, 0, 0, 0));
 }
 
 .sub-comp-background-image {
@@ -48,4 +48,9 @@ button, a {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+}
+
+.bottom-card-comp {
+  background: #dadde4ff;
+  border-radius: 30px;
 }
