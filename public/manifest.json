@@ -1,7 +1,7 @@
 {
-  "name": "My PWA App",
-  "short_name": "PWAApp",
-  "start_url": "/houses",
+  "name": "real-estate-glassmorphism",
+  "short_name": "real-estate",
+  "start_url": "/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
